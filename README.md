@@ -2,8 +2,6 @@
 
 - YourBnB, an AirBnB clone, is a full-stack, single-page page online marketplace application for lodging that allows users to look for accommodations and make reservations in specific locales. This application was developed using React for front-end and Redux for state management, Ruby on Rails for back-end and PostgresSQL for database management.
 
-Check out the Live Site! --> [YourBnB](https://yourbnb.herokuapp.com/#/)
-
 ## Technologies, Libraries, APIs
 
 - Front-End: React, Redux, jQuery, SCSS
